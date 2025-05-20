@@ -1,0 +1,2 @@
+product_relations.py文件是处理商品类别关联规则挖掘代码，pay_product.py是完成支付方式与商品类别的关联分析，time.py是完成时间序列模式挖掘,
+refund.py是完成退款模式分析，transfer.py是将商品id映射到商品大类形成新的商品id和商品种类对应表。
